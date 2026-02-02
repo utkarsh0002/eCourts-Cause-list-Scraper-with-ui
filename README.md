@@ -1,5 +1,7 @@
 # 🏛️ eCourts Cause List Downloader (PyQt5 + Selenium)
 
+**Description:**  
+
 A desktop GUI tool that automates downloading **District Court Cause Lists** directly from the [eCourts Services](https://services.ecourts.gov.in/ecourtindia_v6/) website.
 
 This app allows users to select court parameters (state, district, complex, establishment, etc.), view and enter captcha manually, and automatically generate a **well-formatted PDF** of the cause list.
